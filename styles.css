@@ -1,0 +1,27 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+.footer {
+  color: white;
+}
+
+.icon {
+  float: right;
+}
+
+.carousel-inner img {
+  max-height: 500px;
+}
+
+.card-img-top {
+  max-height: 250px;
+}
+
+#media {
+  width: 120px;
+  height: 120px;
+  clip-path: circle();
+}
+
+.media .media-body {
+  margin-left: 20px;
+}
